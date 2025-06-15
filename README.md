@@ -1,12 +1,9 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║ ___                      _             _       _                     ║
-║(  _`\                   ( )           ( )  _  ( )                    ║
-║| (_(_)  ___ ___     _   | |/')    __  | | ( ) | |   _ _  _ __    __  ║
-║`\__ \ /' _ ` _ `\ /'_`\ | , <   /'__`\| | | | | | /'_` )( '__) /'__`\║
-║( )_) || ( ) ( ) |( (_) )| |\`\ (  ___/| (_/ \_) |( (_| || |   (  ___/║
-║`\____)(_) (_) (_)`\___/'(_) (_)`\____)`\___x___/'`\__,_)(_)   `\____)║
-╚══════════════════════════════════════════════════════════════════════╝
-
+ ___                      _             _       _                     
+(  _`\                   ( )           ( )  _  ( )                    
+| (_(_)  ___ ___     _   | |/')    __  | | ( ) | |   _ _  _ __    __  
+`\__ \ /' _ ` _ `\ /'_`\ | , <   /'__`\| | | | | | /'_` )( '__) /'__`\
+( )_) || ( ) ( ) |( (_) )| |\`\ (  ___/| (_/ \_) |( (_| || |   (  ___/
+`\____)(_) (_) (_)`\___/'(_) (_)`\____)`\___x___/'`\__,_)(_)   `\____)
 **SmokeWare** is a high-performance, Windows-native network stress testing utility built in pure Batch scripting. It’s designed for **authorized infrastructure testing**, allowing system administrators and security researchers to safely assess how their networks perform under simulated high-traffic conditions.
 
 > ⚠️ **Important Notice:**  
